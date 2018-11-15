@@ -3,16 +3,18 @@
  */
 
 body {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
 }
 
 #logo {
     height: 300px;
     width: 300px;
+    color: #FF6F00
 }
 
 nav.navbar, .navbar-default {
-    background-color: #2892D7 !important;
+    background-color: #2990ea;
 }
 
 .navbar-default {
@@ -22,6 +24,9 @@ nav.navbar, .navbar-default {
 }
 
 .navbar-default .navbar-nav > li > a {
+    color: white;
+}
+.navbar-default .navbar-nav .open .dropdown-menu>li>a {
     color: white;
 }
 
@@ -54,3 +59,23 @@ nav.navbar, .navbar-default {
 .dropdown-item {
     color: white;
 }
+
+.ns-blue {
+    background-color: #2990ea;
+}
+
+.ns-orange {
+    background-color: #ff9747;
+}
+
+ .black {
+     background-color: black;
+ }
+
+ .grey {
+    background-color: #666c70;
+ }
+
+ .text-white {
+     color: #ffffff;
+ }
