@@ -259,7 +259,9 @@ nav.navbar, .navbar-default {
 .badge-peach {
     background-color: peachpuff;
 }
-
+fieldset {
+    display: inline;
+}
 .dropdown.dropdown-lg .dropdown-menu {
     margin-top: -1px;
     padding: 6px 20px;
