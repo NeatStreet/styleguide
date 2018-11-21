@@ -17,13 +17,14 @@
     <session id="2091261025">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -69,22 +70,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/StyleGuide.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2000">
+            <state relative-caret-position="6660">
               <caret line="444" column="68" selection-start-line="444" selection-start-column="68" selection-end-line="444" selection-end-column="68" />
-              <folding>
-                <element signature="n#style#0;n#input#0;n#form#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#1;n#form#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#ul#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#31078#31085#1" expanded="true" />
-                <element signature="e#31359#31366#1" expanded="true" />
-                <element signature="e#31645#31652#1" expanded="true" />
-                <element signature="e#31938#31945#1" expanded="true" />
-                <element signature="e#32220#32227#1" expanded="true" />
-                <element signature="e#32573#32591#0" expanded="true" />
-                <element signature="e#32864#32882#0" expanded="true" />
-                <element signature="e#33006#33024#0" expanded="true" />
-                <element signature="e#48664#48671#1" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -92,8 +79,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styleGuide.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-929">
-              <caret line="211" column="16" lean-forward="true" selection-start-line="211" selection-start-column="16" selection-end-line="211" selection-end-column="16" />
+            <state relative-caret-position="15">
+              <caret line="211" column="16" selection-start-line="211" selection-start-column="16" selection-end-line="211" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -156,6 +143,9 @@
       <path value="$PROJECT_DIR$/package.json" />
       <path value="$PROJECT_DIR$/vendor/fontawesome-free/package.json" />
     </packageJsonPaths>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
@@ -257,16 +247,17 @@
       <workItem from="1542267458685" duration="2500000" />
       <workItem from="1542302430834" duration="120000" />
       <workItem from="1542321137022" duration="8606000" />
+      <workItem from="1542330635410" duration="48000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19702000" />
+    <option name="totallyTimeSpent" value="19750000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2657512" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26979" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="DB Browser" order="2" />
       <window_info id="Project Explorer" order="3" />
@@ -381,29 +372,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/StyleGuide.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2000">
+        <state relative-caret-position="6660">
           <caret line="444" column="68" selection-start-line="444" selection-start-column="68" selection-end-line="444" selection-end-column="68" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#form#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#1;n#form#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#31078#31085#1" expanded="true" />
-            <element signature="e#31359#31366#1" expanded="true" />
-            <element signature="e#31645#31652#1" expanded="true" />
-            <element signature="e#31938#31945#1" expanded="true" />
-            <element signature="e#32220#32227#1" expanded="true" />
-            <element signature="e#32573#32591#0" expanded="true" />
-            <element signature="e#32864#32882#0" expanded="true" />
-            <element signature="e#33006#33024#0" expanded="true" />
-            <element signature="e#48664#48671#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styleGuide.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-929">
-          <caret line="211" column="16" lean-forward="true" selection-start-line="211" selection-start-column="16" selection-end-line="211" selection-end-column="16" />
+        <state relative-caret-position="15">
+          <caret line="211" column="16" selection-start-line="211" selection-start-column="16" selection-end-line="211" selection-end-column="16" />
         </state>
       </provider>
     </entry>
